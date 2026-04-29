@@ -16,13 +16,13 @@ The primary objective was to design and evaluate deep learning models capable of
 ## 📂 Repository Contents
 To provide a complete view of the research lifecycle, from raw data processing to academic communication, this repository includes:
 
-*   **`/src`**: Modular MATLAB scripts used for repeatable experiments and parameter tracking . Includes implementations for:
+*   **`EEGPreProcessing.m`**: Modular MATLAB scripts used for repeatable experiments and parameter tracking . Includes implementations for:
     *   Data preprocessing and filtering .
     *   EEG signal segmentation .
     *   CNN model architecture and training .
     *   Evaluation tooling (including confusion matrices and majority voting) .
-*   **`Research_Poster.pdf`**: The official poster presented at the University Research Symposium .
-*   **`Symposium_Slides.pdf`**: The slide deck utilized to present the findings, methodology, and neural network architectures to an academic audience.
+*   **`DDF Poster Aaron Alymann Jeyaraj.pdf`**: The official poster presented at the University Research Symposium .
+*   **`DDF Aaron Alymann Jeyaraj_EEG Biometric.pdf`**: The slide deck utilized to present the findings, methodology, and neural network architectures to an academic audience.
 
 ## 🛠 Methodology
 1.  **Signal Processing:** Applied temporal filtering and artifact removal to raw 14-channel EEG streams to isolate relevant cortical activity .
