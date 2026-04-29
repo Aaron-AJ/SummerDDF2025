@@ -16,7 +16,7 @@ The primary objective was to design and evaluate deep learning models capable of
 ## 📂 Repository Contents
 To provide a complete view of the research lifecycle, from raw data processing to academic communication, this repository includes:
 
-*   **`EEGPreProcessing.m`**: Modular MATLAB scripts used for repeatable experiments and parameter tracking . Includes implementations for:
+*   **`SadAttemptAtNetwork.m & EEGPreProcessing.m`**: Modular MATLAB scripts used for repeatable experiments and parameter tracking . Includes implementations for:
     *   Data preprocessing and filtering .
     *   EEG signal segmentation .
     *   CNN model architecture and training .
